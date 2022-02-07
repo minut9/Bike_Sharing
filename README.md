@@ -1,6 +1,6 @@
 # Prospective Bikesharing
 
-To start, the workbook is available by clicking the link below-
+To start, the workbook is available by clicking the link -- 
 [Tableau Workbook for Module 14](https://public.tableau.com/app/profile/joseph.minutaglio/viz/Module14Challenge_16442496663880/NYCCitibikeStory)
 
 ## Purpose
