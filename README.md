@@ -4,7 +4,7 @@ To start, the workbook is available by clicking the link --
 [Tableau Workbook For Bike_Sharing](https://public.tableau.com/app/profile/joseph.minutaglio/viz/Module14Challenge_16442496663880/NYCCitibikeStory)
 
 ## Purpose
-This analysis dives deeper into NYC Citibike data for prospective Des Moines to begin a Citibike program
+This analysis dives deeper into NYC Citibike data for a comparision/ prospective Des Moines to begin a Citibike program
 
 ### Analysis
 It is important to keep in mind that NYC has been established before Des Moines and the population in Manhattan is far greater than this prospective expansion project. The Data in NYC in August (A peak time for optimal weather), the data found that most people who were subscribers to the program were male and peak times were during morning rush hour of 8 O'clock and evening rush hour of 5 O'clock. 
