@@ -7,7 +7,7 @@ To start, the workbook is available by clicking the link --
 This analysis dives deeper into NYC Citibike data for a comparision/ prospective Des Moines to begin a Citibike program
 
 ### Analysis
-It is important to keep in mind that NYC has been established before Des Moines and the population in Manhattan is far greater than this prospective expansion project. The Data in NYC in August (A peak time for optimal weather), the data found that most people who were subscribers to the program were male and peak times were during morning rush hour of 8 O'clock and evening rush hour of 5 O'clock. 
+It is important to keep in mind that NYC has been established well before Des Moines and the population in Manhattan is far greater and denser than where this prospective expansion project. The Data in NYC in August (A peak time for optimal weather), the data found that most people who were subscribers to the program were male and peak times were during morning rush hour of 8 O'clock and evening rush hour of 5 O'clock. 
 
 <img width="1655" alt="Screen Shot 2022-02-07 at 11 06 55 AM" src="https://user-images.githubusercontent.com/86068655/152828123-f91158b9-7bee-4b77-8729-2fb2dce45d41.png">
 This photo above shows the categories of men, women, and unknown and it is clear that males are the dominent subscriber for this program. Both photos (above and below) show clear peak times in deep red which are to and from work. 
